@@ -9,8 +9,8 @@
 - 🔍 A curious mind passionate about **Data Science** and **Data Analytics**.
 - 🎯 Turning Data into Insights, One Step at a Time
 - 🌱 Continuously learning and exploring tools like **Python**, **Docker**, and **Tableau**.  
-- 💡 Actively building my skills in **Deep Learning**, **Data Visualization**, and **DevOps**.  
-- 💬 Let’s talk about **Analytics, Machine Learning, and DevOps**!
+- 💡 Actively building my skills in **Deep Learning**, **Data Visualization**.  
+- 💬 Let’s talk about **Analytics, Machine Learning**!
 
 ---
 
