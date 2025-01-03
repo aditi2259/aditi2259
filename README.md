@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Aditi Singh</h1>
 <h3 align="center">Passionate learner exploring the world of Data Science and Analytics</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditi2259" alt="aditi2259" /></a> </p>
+
 
 ---
 
